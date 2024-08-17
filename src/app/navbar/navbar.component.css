@@ -1,0 +1,13 @@
+*, ::after, ::before{
+  color: aliceblue;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  list-style-type: none;
+}
